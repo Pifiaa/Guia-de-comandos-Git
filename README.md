@@ -1,5 +1,13 @@
+Aquí tienes el índice agregado al markdown:
 # Proyecto: Guía de comandos Git
 ![GIT](img/Git-Logo-2Color.png)
+
+## Índice
+
+1. [Lista de comandos](docs/listado.md)
+2. [Introducción a Git: Configuración Básica](docs/1.Introduccion-Git.md)
+3. [Comandos básicos de Git](docs/2.Comandos-Basicos-Git.md)
+4. [Gestión de ramas](docs/3.Gestion-Ramas-Git.md)
 
 ## Descripción
 
@@ -19,5 +27,3 @@ El proyecto incluirá:
 - Listado de comandos básicos de Git con ejemplos de uso.
 - Explicaciones detalladas sobre las funciones y opciones de los comandos.
 - Consejos y buenas prácticas para el uso eficiente de Git en entornos profesionales.
-- Recursos adicionales para ampliar el conocimiento sobre Git y seguir aprendiendo.
-
